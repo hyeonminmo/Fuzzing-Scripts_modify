@@ -22,7 +22,7 @@ use std::time::Instant;
 mod prepare;
 
 // const CRATES_IO_DIR: &'static str = "github.com-1ecc6299db9ec823/";
-const USTC_MIRROR_DIR: &str = "mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/";
+const USTC_MIRROR_DIR: &str = "mirrors.ustc.edu.cn-12df342d903acd47/";
 const USER_HOME: &str = "/home/jjf/";
 
 lazy_static! {
