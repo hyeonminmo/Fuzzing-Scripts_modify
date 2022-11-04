@@ -16,8 +16,8 @@ You can follow below instructions to install these two scripts on Unix-like syst
 ```shell
 WORKDIR=$HOME #You can change this directory according to your own settings
 cd $WORKDIR
-git clone https://github.com/Artisan-Lab/Fuzzing-Scripts
-cd Fuzzing-Scripts
+git clone https://github.com/hyeonminmo/Fuzzing-Scripts_modify.git
+cd Fuzzing-Scripts_modify
 cargo install --path afl_scripts
 cargo install --path find_literal
 ```
